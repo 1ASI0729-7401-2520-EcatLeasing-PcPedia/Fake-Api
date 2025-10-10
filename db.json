@@ -169,5 +169,46 @@
       "imagen": "https://store.hp.com/peru/images/product/EliteBook840G9.png"
     }
   ],
-  "carrito": []
+  "carrito": [],
+  "incidents": [
+    {
+      "id": 101,
+      "usuarioId": 1,
+      "empresaId": 1,
+      "contratoId": 1,
+      "code": "INC-101",
+      "serie": "5CD3X1ABCD",
+      "modelo": "HP ZBook Firefly 14 G10",
+      "fecha": "2025-09-12",
+      "estado": "Abierto",
+      "descripcion": "Pantalla parpadea al mover la tapa.",
+      "tecnico": "Hilton Vargas"
+    },
+    {
+      "id": 102,
+      "usuarioId": 1,
+      "empresaId": 1,
+      "contratoId": 2,
+      "code": "INC-102",
+      "serie": "CZP0M44K9Q",
+      "modelo": "HP LaserJet Pro M404dn",
+      "fecha": "2025-09-18",
+      "estado": "En Proceso",
+      "descripcion": "Atasco frecuente en bandeja 2.",
+      "tecnico": "Sebastián Hernández"
+    },
+    {
+      "id": 103,
+      "usuarioId": 2,
+      "empresaId": 2,
+      "contratoId": 3,
+      "code": "INC-103",
+      "serie": "PF1L7Q2X88",
+      "modelo": "HP ProBook 450 G10",
+      "fecha": "2025-10-01",
+      "estado": "Cerrado",
+      "descripcion": "Batería no carga al 100%.",
+      "tecnico": "Marco Chauca"
+    }
+  ]
 }
